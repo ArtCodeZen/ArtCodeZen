@@ -1,16 +1,61 @@
-### Hi there 👋
+# SOBRE
+## Habilidades
+### Linguagens de programação nível BackEnd
+LINGUAGENS | NÍVEL | Software para
+-----------|-------|------------------------
+ C        | Intermediário | Aplicação, Embarcado
+ C++      | Intermediário | Aplicação, Embarcado
+ Python   | Intermediário | Aplicação, Web
+ Java     | Básico        | Aplicação
+ C#       | Básico        | Aplicação, Web
+ Php      | Básico        | Web
+ Arduino  | Intermediário | Embarcado
+ AVR      | Intermediário | Embarcado 
+ 
+### Linguagem de programação / marcação FrontEnd
+LINGUAGENS | NÍVEL | Software para
+-----------|-------|--------------------
+HTML5      |Intermediário| Web
+CSS3       |Intermediário| Web
+Javascript |Intermediário| Web
+### Banco de Dados
+LINGUAGEM | NÍVEL
+----------|----------
+SQL        | Intermediário
+ORACLE SQL | Intermediário
+MYSQL      | Intermediário
+SQLITE     | Intermediário
+MARIA DB   | Intermediário
+### Embarcados
 
-<!--
-**ArtCodeZen/ArtCodeZen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+EMBARCADOS | LINGUAGEM
+-----------|-------------
+ESP32      | C/C++
+Arduino    | C/C++
+STM32      | C/C++
 
-Here are some ideas to get you started:
+### Hardware 
+> Certificação CISCO NETACAD
+* Manutenção de computadores
+* Instalação / Montagem
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Montagem e Configuração R/C
+####  Drones
+* Drones OpenSource firmware(Betaflight; Inav; Cleanflight; Emuflight)
+* Preparação do circuito placa e componentes pré instalação
+* Pilotagem 
+* Configuração de voo modo ACRO (Acrobático)
+* FPV (First Person View)
+#### Helimodelismo
+* Montagem e configuração
+* Pilotagem modo (Acrobático)
+#### Aeromodelismo
+* Montagem e configuração
+* Pilotagem modo (Acrobático)
+
+## Hobbies
+* Desenho Realista
+* Pintura Spray
+* Redes Sociais
+## Contato
+[Blogger](https://watpekin.blogspot.com/)
