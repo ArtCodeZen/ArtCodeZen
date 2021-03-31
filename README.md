@@ -20,9 +20,9 @@ CSS3       |Intermediário| Web
 Javascript |Intermediário| Web
 
 #### Página exemplo FrontEnd
-PAGINA | PAGINA2
+FRONT1 | FRONT2
 -------|-----------
-<img src="https://github.com/ArtCodeZen/ArtCodeZen/blob/main/Imagens/PaginaFashion.png" width="451" height="588" /> | <img src="https://github.com/ArtCodeZen/ArtCodeZen/blob/main/Imagens/PaginaWebFundamentos.png" width="451" height="588" />
+<img src="https://github.com/ArtCodeZen/ArtCodeZen/blob/main/Imagens/PaginaFashion.png" width="225" height="294" /> | <img src="https://github.com/ArtCodeZen/ArtCodeZen/blob/main/Imagens/PaginaWebFundamentos.png" width="225" height="294" />
 
 
 ### Banco de Dados
