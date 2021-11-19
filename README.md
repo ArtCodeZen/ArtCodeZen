@@ -65,4 +65,4 @@ STM32      | C/C++
 * Pintura Spray
 * Redes Sociais
 ## Contato
-[Blogger](https://watpekin.blogspot.com/)
+[WordPress](https://artcodezen.wordpress.com/)
