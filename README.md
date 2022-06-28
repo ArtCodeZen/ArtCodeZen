@@ -89,9 +89,15 @@
 
 ## Certificações
 <div class="infoadd">
-  <img align="center" alt="html" src="https://shields.io/badge/Cisco--Netacad-IT Essentials -- Hardware-lightblue?logo=cisco&style=for-the-badge&logoColor=white"/>
+ <img align="center" alt="html" src="https://shields.io/badge/Cisco--Netacad-IT Essentials -- Hardware-lightblue?logo=cisco&style=for-the-badge&logoColor=white"/>
 
   <img align="center" alt="html" src="https://shields.io/badge/Cisco--Netacad-Introduction to Cybersecurity-lightblue?logo=cisco&style=for-the-badge&logoColor=white"/>
+
+  <img align="center" alt="html" src="https://shields.io/badge/UDEMY-Curso--Maker-a435f0?logo=udemy&style=for-the-badge&logoColor=white"/>
+
+  <img align="center" alt="html" src="https://shields.io/badge/UDEMY-Java-a435f0?logo=udemy&style=for-the-badge&logoColor=white"/>
+
+  <img align="center" alt="html" src="https://shields.io/badge/UDEMY-Desenho Realista-a435f0?logo=udemy&style=for-the-badge&logoColor=white"/>
 
 </div>
 
