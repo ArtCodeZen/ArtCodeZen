@@ -36,6 +36,7 @@
 
 
   <img align="center" alt="html" src="https://shields.io/badge/Git-red?logo=git&style=for-the-badge&logoColor=white"/>  
+  <img align="center" alt="html" src="https://shields.io/badge/Windows-blue?logo=windows&style=for-the-badge&logoColor=white"/>
   
   <img align="center" alt="html" src="https://shields.io/badge/Linux-grey?logo=linux&style=for-the-badge&logoColor=white"/>
   
@@ -43,7 +44,7 @@
 
   <img align="center" alt="html" src="https://shields.io/badge/Ubuntu-orange?logo=ubuntu&style=for-the-badge&logoColor=white"/>
   
-  <img align="center" alt="html" src="https://shields.io/badge/Windows-blue?logo=windows&style=for-the-badge&logoColor=white"/>
+ 
   
   <img align="center" alt="html" src="https://shields.io/badge/Linux mint-green?logo=linuxmint&style=for-the-badge&logoColor=white"/>
   
@@ -77,9 +78,7 @@
   <img align="center" alt="html" src="https://shields.io/badge/libreoffice-lightblue?logo=libreoffice&style=for-the-badge&logoColor=white"/>
 
 
-  <img align="center" alt="html" src="https://shields.io/badge/Microsoft--Office-darkorange?logo=microsoftoffice&style=for-the-badge&logoColor=white"/>
-
- 
+  <img align="center" alt="html" src="https://shields.io/badge/Microsoft--Office-darkorange?logo=microsoftoffice&style=for-the-badge&logoColor=white"/> 
 
   <br/>
   <p>  
@@ -89,7 +88,7 @@
 
 ## Certificações
 <div class="infoadd">
- <img align="center" alt="html" src="https://shields.io/badge/Cisco--Netacad-IT Essentials -- Hardware-lightblue?logo=cisco&style=for-the-badge&logoColor=white"/>
+  <img align="center" alt="html" src="https://shields.io/badge/Cisco--Netacad-IT Essentials -- Hardware-lightblue?logo=cisco&style=for-the-badge&logoColor=white"/>
 
   <img align="center" alt="html" src="https://shields.io/badge/Cisco--Netacad-Introduction to Cybersecurity-lightblue?logo=cisco&style=for-the-badge&logoColor=white"/>
 
@@ -98,7 +97,6 @@
   <img align="center" alt="html" src="https://shields.io/badge/UDEMY-Java-a435f0?logo=udemy&style=for-the-badge&logoColor=white"/>
 
   <img align="center" alt="html" src="https://shields.io/badge/UDEMY-Desenho Realista-a435f0?logo=udemy&style=for-the-badge&logoColor=white"/>
-
 </div>
 
 
