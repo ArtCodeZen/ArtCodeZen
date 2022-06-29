@@ -9,6 +9,10 @@
   ### Embarcados
 
   <img align="center" alt="arduino" src="https://shields.io/badge/arduino-UNO, ESP32, STM32-blue?logo=arduino&style=for-the-badge" />
+  
+  <img align="center" alt="arduino" src="https://shields.io/badge/STM32-Bluepill-blue?logo=stmicroelectronics&style=for-the-badge" />
+
+  <img align="center" alt="arduino" src="https://shields.io/badge/Espressif-ESP32-blue?logo=espressif&style=for-the-badge" />
 
   ### FrontEnd
 
@@ -70,7 +74,7 @@
   <img align="center" alt="html" src="https://shields.io/badge/Microsoft--Azure-0085cf?logo=microsoftazure&style=for-the-badge&logoColor=white"/>
 
   <img align="center" alt="html" src="https://shields.io/badge/Heroku-purple?logo=heroku&style=for-the-badge&logoColor=white"/>
-  
+
   ### Outros
 
   <img align="center" alt="html" src="https://shields.io/badge/Git-red?logo=git&style=for-the-badge&logoColor=white"/>  
@@ -93,7 +97,7 @@
 
   <img align="center" alt="html" src="https://shields.io/badge/Filezilla-red?logo=filezilla&style=for-the-badge"/>
 
- 
+
 
   
   <img align="center" alt="html" src="https://shields.io/badge/libreoffice-lightblue?logo=libreoffice&style=for-the-badge&logoColor=white"/>
