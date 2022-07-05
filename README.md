@@ -78,6 +78,8 @@
   ### Outros
 
   <img align="center" alt="html" src="https://shields.io/badge/Git-red?logo=git&style=for-the-badge&logoColor=white"/>  
+  
+  <img align="center" alt="html" src="https://shields.io/badge/GIMP-whitesmoke?logo=gimp&style=for-the-badge&logoColor=brown"/> 
 
   <img align="center" alt="html" src="https://shields.io/badge/Inkscape-whitesmoke?logo=inkscape&style=for-the-badge&logoColor=black"/>
 
@@ -122,6 +124,7 @@
   <img align="center" alt="html" src="https://shields.io/badge/UDEMY-Java-a435f0?logo=udemy&style=for-the-badge&logoColor=white"/>
 
   <img align="center" alt="html" src="https://shields.io/badge/UDEMY-Desenho Realista-a435f0?logo=udemy&style=for-the-badge&logoColor=white"/>
+
 </div>
 
 
