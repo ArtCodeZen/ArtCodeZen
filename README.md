@@ -23,6 +23,8 @@
   <img align="center" alt="html" src="https://shields.io/badge/SASS-cd6799?logo=sass&style=for-the-badge&logoColor=white"/>
   
   <img align="center" alt="html" src="https://shields.io/badge/Javascript-yellow?logo=javascript&style=for-the-badge&logoColor=white"/>
+
+  <img align="center" alt="html" src="https://shields.io/badge/Jquery-black?logo=jquery&style=for-the-badge"/>
   
   <img align="center" alt="html" src="https://shields.io/badge/react-lightblue?logo=react&style=for-the-badge&logoColor=white"/>
 
