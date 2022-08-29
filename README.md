@@ -52,6 +52,8 @@
   
   <img align="center" alt="html" src="https://shields.io/badge/mysql-blue?logo=mysql&style=for-the-badge&logoColor=white"/>
 
+  <img align="center" alt="html" src="https://shields.io/badge/firebase-whitesmoke?logo=firebase&style=for-the-badge&logoColor=orange"/>
+
   ### Sistemas Operacionais
 
  
