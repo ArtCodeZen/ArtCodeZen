@@ -115,9 +115,9 @@
   <img align="center" alt="html" src="https://shields.io/badge/Microsoft--Office-darkorange?logo=microsoftoffice&style=for-the-badge&logoColor=white"/> 
 
   <br/>
-  <p>  
-  Sempre buscando aprender coisas novas e se aperfeiçoando a cada nova descoberta!
-  </p>
+    
+  ### Sempre buscando aprender coisas novas e se aperfeiçoando a cada nova descoberta!
+  
 </div>
 
 ## Certificações
