@@ -52,8 +52,6 @@
   
   <img align="center" alt="html" src="https://shields.io/badge/mysql-blue?logo=mysql&style=for-the-badge&logoColor=white"/>
 
-  <img align="center" alt="html" src="https://shields.io/badge/firebase-whitesmoke?logo=firebase&style=for-the-badge&logoColor=orange"/>
-
   ### Sistemas Operacionais
 
  
@@ -83,6 +81,11 @@
 
   <img align="center" alt="html" src="https://shields.io/badge/Git-red?logo=git&style=for-the-badge&logoColor=white"/>  
   
+  <img align="center" alt="html" src="https://shields.io/badge/npm-whitesmoke?logo=npm&style=for-the-badge&logoColor=white"/> 
+
+  <img align="center" alt="html" src="https://shields.io/badge/yarn-whitesmoke?logo=yarn&style=for-the-badge&logoColor=blue"/>
+  
+
   <img align="center" alt="html" src="https://shields.io/badge/GIMP-whitesmoke?logo=gimp&style=for-the-badge&logoColor=brown"/> 
 
   <img align="center" alt="html" src="https://shields.io/badge/Inkscape-whitesmoke?logo=inkscape&style=for-the-badge&logoColor=black"/>
