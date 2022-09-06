@@ -116,8 +116,7 @@
 
   <br/>
     
-  ### Sempre buscando aprender coisas novas e se aperfeiçoando a cada nova descoberta!
-  
+  ### Sempre buscando aprender coisas novas e se aperfeiçoando a cada nova descoberta!  
 </div>
 
 ## Certificações
