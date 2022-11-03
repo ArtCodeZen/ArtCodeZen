@@ -106,13 +106,14 @@
 
   <img align="center" alt="html" src="https://shields.io/badge/Filezilla-red?logo=filezilla&style=for-the-badge"/>
 
-
+  <img align="center" alt="html" src="https://shields.io/badge/Microsoft--Office-darkorange?logo=microsoftoffice&style=for-the-badge&logoColor=white"/>
 
   
   <img align="center" alt="html" src="https://shields.io/badge/libreoffice-lightblue?logo=libreoffice&style=for-the-badge&logoColor=white"/>
 
 
-  <img align="center" alt="html" src="https://shields.io/badge/Microsoft--Office-darkorange?logo=microsoftoffice&style=for-the-badge&logoColor=white"/> 
+  <img align="center" alt="html" src="https://shields.io/badge/Gulp-red?logo=gulp&style=for-the-badge&logoColor=white"/> 
+
 
   <br/>
     
