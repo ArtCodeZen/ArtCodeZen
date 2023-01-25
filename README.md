@@ -43,6 +43,7 @@
   <img align="center" alt="html" src="https://shields.io/badge/Python-grey?logo=python&style=for-the-badge&logoColor=white"/>
 
   <img align="center" alt="html" src="https://shields.io/badge/Android-green?logo=android&style=for-the-badge&logoColor=white"/>
+   <img align="center" alt="html" src="https://shields.io/badge/Kotlin-blue?logo=kotlin&style=for-the-badge&logoColor=purple"/>
 
   ### Banco de dados
 
