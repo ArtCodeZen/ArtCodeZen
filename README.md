@@ -1,4 +1,4 @@
-## Olá, Henrique Hiromiti Watanabe 
+## Olá, Henrique Watanabe 
 
 ![ArtCodeZen GitHub stats](https://github-readme-stats.vercel.app/api?username=artcodezen&show_icons=true&theme=vision-friendly-dark&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artcodezen&layout=compact&langs_count=10)]([https://github.com/artcod/](https://github.com/ArtCodeZen/ArtCodeZen/edit/main/README.md))
