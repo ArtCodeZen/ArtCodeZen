@@ -1,6 +1,6 @@
 ## Olá, Henrique Watanabe 
 
-![ArtCodeZen GitHub stats](https://github-readme-stats.vercel.app/api?username=artcodezen&show_icons=true&theme=vision-friendly-dark&count_private=true)
+![ArtCodeZen GitHub stats](http://github-readme-streak-stats.herokuapp.com/?user=artcodezen&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artcodezen&layout=compact&langs_count=10)]([https://github.com/artcod/](https://github.com/ArtCodeZen/ArtCodeZen/edit/main/README.md))
 ## TECNOLOGIAS
 
