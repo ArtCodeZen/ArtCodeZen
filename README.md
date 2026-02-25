@@ -1,7 +1,9 @@
 ## Olá, Henrique Watanabe 
+[![github-stats](http://github-readme-streak-stats.herokuapp.com/?user=artcodezen&theme=dark&background=000000)](https://git.io/streak-stats)
+<br/>
+[![github-stats-card](https://kasroudra-stats-card.onrender.com/lang?user=artcodezen&layout=compact&type=donut&theme=gruvbox_light)](https://github.com/KasRoudra/github-stats-card)
 
-![ArtCodeZen GitHub stats](http://github-readme-streak-stats.herokuapp.com/?user=artcodezen&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://kasroudra-stats-card.onrender.com/lang?user=artcodezen&layout=compact&type=donut&theme=gruvbox_light)](https://github.com/KasRoudra/github-stats-card]([https://github.com/artcod/](https://github.com/ArtCodeZen/ArtCodeZen/edit/main/README.md))
+
 ## TECNOLOGIAS
 
 <div class="info">
